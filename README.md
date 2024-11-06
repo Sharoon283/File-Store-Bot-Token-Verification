@@ -2,9 +2,9 @@
 </p>
 
 
-* <b>𝟸 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore)</b>
-* <b>ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/AutoDelete)</b>
-* <b>𝟺 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore/tree/multi-fsub)</b>
+* <b>𝟸 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/FileshortBots/FileStore)</b>
+* <b>ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/FileshortBots/FileStore/tree/AutoDelete)</b>
+* <b>𝟺 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/FileshortBots/FileStore/tree/multi-fsub)</b>
 
  ━━━━━━━━━━━━━━━━━
 <details>
@@ -23,11 +23,11 @@
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID ` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` Your bot token from @BotFather
+* `7867973416:AAHAWnm9LL0cpaFKBVm1ijVDzc6jx83X9Jk` Your bot token from @Fileshortbot
 * `OWNER_ID` Must enter Your Telegram Id
-* `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
+* `https://t.me/wrestlewor` Your Channel ID eg:- -100xxxxxxxx
 * `DB_URI ` Your mongo db url 
-* `DB_name ` Your mongo db session name ( random )
+* `DB_name ` Your mongo db session name ( Fileshortbot )
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/#start_message'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
@@ -61,7 +61,7 @@
 
 #### CUSTOM_CAPTION
 
-* `{filename}` - file name of the Document
+* `{fileshortbot}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
 #### CUSTOM_STATS
